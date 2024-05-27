@@ -1,0 +1,10 @@
+/camellia.c/1.10/Wed Nov 19 11:37:52 2014//TOPENBSD_5_8_BASE
+/camellia.h/1.5/Thu Nov 13 20:01:58 2014//TOPENBSD_5_8_BASE
+/cmll_cbc.c/1.4/Thu Nov 13 20:01:58 2014//TOPENBSD_5_8_BASE
+/cmll_cfb.c/1.4/Thu Nov 13 20:01:58 2014//TOPENBSD_5_8_BASE
+/cmll_ctr.c/1.4/Thu Nov 13 20:01:58 2014//TOPENBSD_5_8_BASE
+/cmll_ecb.c/1.4/Thu Nov 13 20:01:58 2014//TOPENBSD_5_8_BASE
+/cmll_locl.h/1.5/Thu Nov 13 20:01:58 2014//TOPENBSD_5_8_BASE
+/cmll_misc.c/1.6/Thu Nov 13 20:01:58 2014//TOPENBSD_5_8_BASE
+/cmll_ofb.c/1.4/Thu Nov 13 20:01:58 2014//TOPENBSD_5_8_BASE
+D/asm////

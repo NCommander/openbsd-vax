@@ -1,0 +1,7 @@
+/Makefile/1.2/Sat Mar  3 11:08:12 2012//TOPENBSD_5_8_BASE
+/Makefile.inc/1.1.1.1/Wed Jan  4 17:36:40 2012//TOPENBSD_5_8_BASE
+D/sem_destroy////
+D/sem_getvalue////
+D/sem_timedwait////
+D/sem_trywait////
+D/sem_wait////

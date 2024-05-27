@@ -1,0 +1,10 @@
+/Makefile/1.1/Thu Aug 14 02:00:53 2014//TOPENBSD_5_8_BASE
+/args.in/1.1/Thu Aug 14 02:00:53 2014//TOPENBSD_5_8_BASE
+/args.out_ascii/1.2/Tue Aug 26 11:32:56 2014//TOPENBSD_5_8_BASE
+/noname.in/1.1/Thu Aug 14 02:00:53 2014//TOPENBSD_5_8_BASE
+/noname.out_ascii/1.2/Tue Aug 26 11:32:56 2014//TOPENBSD_5_8_BASE
+/noname.out_lint/1.1/Thu Aug 14 02:00:53 2014//TOPENBSD_5_8_BASE
+/nostd.in/1.1/Thu Aug 14 02:00:53 2014//TOPENBSD_5_8_BASE
+/nostd.out_ascii/1.2/Tue Aug 26 11:32:56 2014//TOPENBSD_5_8_BASE
+/nostd.out_lint/1.1/Thu Aug 14 02:00:53 2014//TOPENBSD_5_8_BASE
+D

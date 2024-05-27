@@ -1,0 +1,7 @@
+/Makefile/1.5/Tue Nov 22 23:06:48 2011//TOPENBSD_5_8_BASE
+D/cansig////
+D/earlysig////
+D/fpsig////
+D/sigaltstack_fork////
+D/sigfpe////
+D/siginfo_addr////

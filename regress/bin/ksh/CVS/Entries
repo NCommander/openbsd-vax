@@ -1,0 +1,23 @@
+/Makefile/1.8/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/README/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/alias.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/arith.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/bksl-nl.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/brkcont.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/cdhist.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/eglob.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/glob.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/heredoc.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/history.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/ifs.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/integer.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/lineno.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/obsd-regress.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/read.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/regress.t/1.2/Thu Jul 30 17:24:08 2015//TOPENBSD_5_8_BASE
+/syntax.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/th/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/unclass1.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/unclass2.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+/version.t/1.1/Mon Dec  2 20:39:44 2013//TOPENBSD_5_8_BASE
+D

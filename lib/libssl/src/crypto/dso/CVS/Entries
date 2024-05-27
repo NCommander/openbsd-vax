@@ -1,0 +1,7 @@
+/dso.h/1.11/Sat Feb  7 13:19:15 2015//TOPENBSD_5_8_BASE
+/dso_dlfcn.c/1.28/Sat Feb  7 13:19:15 2015//TOPENBSD_5_8_BASE
+/dso_err.c/1.8/Thu Jul 10 22:45:56 2014//TOPENBSD_5_8_BASE
+/dso_lib.c/1.18/Fri Jul 11 08:44:48 2014//TOPENBSD_5_8_BASE
+/dso_null.c/1.7/Fri Jul 11 08:44:48 2014//TOPENBSD_5_8_BASE
+/dso_openssl.c/1.6/Fri Jul 11 08:44:48 2014//TOPENBSD_5_8_BASE
+D

@@ -1,0 +1,14 @@
+/Makefile/1.2/Thu Jun  2 21:47:40 2011//TOPENBSD_5_8_BASE
+/cephes.c/1.1/Mon May 30 20:23:35 2011//TOPENBSD_5_8_BASE
+/cephes.h/1.1/Mon May 30 20:23:35 2011//TOPENBSD_5_8_BASE
+/const.c/1.1/Mon May 30 20:23:35 2011//TOPENBSD_5_8_BASE
+/constll.c/1.1/Thu Jun  2 21:47:40 2011//TOPENBSD_5_8_BASE
+/mconf.h/1.1/Mon May 30 20:23:35 2011//TOPENBSD_5_8_BASE
+/monot.c/1.1/Mon May 30 20:23:35 2011//TOPENBSD_5_8_BASE
+/monotl.c/1.2/Fri Jul  8 16:49:05 2011//TOPENBSD_5_8_BASE
+/monotll.c/1.2/Fri Jul  8 16:49:05 2011//TOPENBSD_5_8_BASE
+/polevll.c/1.2/Thu Jun  2 21:47:40 2011//TOPENBSD_5_8_BASE
+/testvect.c/1.2/Fri Aug  2 20:23:28 2013//TOPENBSD_5_8_BASE
+/testvectl.c/1.5/Mon Aug  5 09:29:51 2013//TOPENBSD_5_8_BASE
+/testvectll.c/1.4/Fri Aug  2 22:19:33 2013//TOPENBSD_5_8_BASE
+D

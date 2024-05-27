@@ -1,0 +1,9 @@
+/Makefile/1.2/Sun Dec 28 14:01:33 2014//TOPENBSD_5_8_BASE
+/README/1.1/Tue Aug 26 17:50:07 2014//TOPENBSD_5_8_BASE
+/openssl.cnf/1.1/Tue Aug 26 17:50:07 2014//TOPENBSD_5_8_BASE
+/test_client.sh/1.1/Tue Aug 26 17:50:07 2014//TOPENBSD_5_8_BASE
+/test_server.sh/1.1/Tue Aug 26 17:50:07 2014//TOPENBSD_5_8_BASE
+/testdsa.sh/1.1/Tue Aug 26 17:50:07 2014//TOPENBSD_5_8_BASE
+/testenc.sh/1.1/Tue Aug 26 17:50:07 2014//TOPENBSD_5_8_BASE
+/testrsa.sh/1.1/Tue Aug 26 17:50:07 2014//TOPENBSD_5_8_BASE
+D/options////

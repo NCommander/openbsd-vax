@@ -1,0 +1,16 @@
+/Makefile/1.85/Sun Jan 11 22:34:08 2015//TOPENBSD_5_8_BASE
+/TODO/1.26/Mon Apr 18 18:49:34 2011//TOPENBSD_5_8_BASE
+/fw_update.1/1.2/Sun Feb 15 09:54:21 2015//TOPENBSD_5_8_BASE
+/package.5/1.23/Thu Apr 16 20:01:39 2015//TOPENBSD_5_8_BASE
+/pkg.conf.5/1.8/Thu Apr 16 19:59:28 2015//TOPENBSD_5_8_BASE
+/pkg_add/1.483/Sat Dec 27 23:59:44 2014//TOPENBSD_5_8_BASE
+/pkg_add.1/1.132/Thu Apr 16 20:01:39 2015//TOPENBSD_5_8_BASE
+/pkg_check.8/1.6/Tue Feb 11 08:58:34 2014//TOPENBSD_5_8_BASE
+/pkg_create.1/1.98/Mon Sep  8 01:27:55 2014//TOPENBSD_5_8_BASE
+/pkg_delete.1/1.50/Wed Apr  8 17:25:58 2015//TOPENBSD_5_8_BASE
+/pkg_info.1/1.50/Mon Sep  8 01:27:55 2014//TOPENBSD_5_8_BASE
+/pkg_mklocatedb/1.43/Sun Jul 13 15:54:28 2014//TOPENBSD_5_8_BASE
+/pkg_mklocatedb.1/1.17/Sun Jul 13 15:54:28 2014//TOPENBSD_5_8_BASE
+/pkg_sign.1/1.7/Sat Oct 11 08:41:06 2014//TOPENBSD_5_8_BASE
+D/OpenBSD////
+D/pod////

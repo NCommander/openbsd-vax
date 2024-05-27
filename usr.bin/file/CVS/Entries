@@ -1,0 +1,15 @@
+/Makefile/1.15/Mon Apr 27 13:52:17 2015//TOPENBSD_5_8_BASE
+/file.1/1.43/Thu Jul 30 11:13:24 2015//TOPENBSD_5_8_BASE
+/file.c/1.47/Sun Jul 12 09:51:25 2015//TOPENBSD_5_8_BASE
+/file.h/1.29/Mon Apr 27 13:52:17 2015//TOPENBSD_5_8_BASE
+/magic-common.c/1.1/Fri Apr 24 16:24:11 2015//TOPENBSD_5_8_BASE
+/magic-dump.c/1.1/Fri Apr 24 16:24:11 2015//TOPENBSD_5_8_BASE
+/magic-load.c/1.6/Wed Jul  8 17:47:15 2015//TOPENBSD_5_8_BASE
+/magic-test.c/1.6/Fri May 29 15:58:01 2015//TOPENBSD_5_8_BASE
+/magic.5/1.14/Thu Jul 15 21:54:20 2010//TOPENBSD_5_8_BASE
+/magic.h/1.6/Fri May 29 14:15:41 2015//TOPENBSD_5_8_BASE
+/sandbox.c/1.8/Thu Jun  4 22:56:33 2015//TOPENBSD_5_8_BASE
+/text.c/1.2/Fri Apr 24 16:45:32 2015//TOPENBSD_5_8_BASE
+/xmalloc.c/1.2/Wed Jun 17 18:51:11 2015//TOPENBSD_5_8_BASE
+/xmalloc.h/1.2/Mon Jul 20 08:51:41 2015//TOPENBSD_5_8_BASE
+D/magdir////

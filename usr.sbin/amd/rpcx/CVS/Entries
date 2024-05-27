@@ -1,0 +1,17 @@
+/Makefile/1.2/Thu Jan 22 03:43:58 2015//TOPENBSD_5_8_BASE
+/amq.h/1.7/Wed Jan 21 09:50:50 2015//TOPENBSD_5_8_BASE
+/amq.x/1.6/Wed Jan 21 09:49:37 2015//TOPENBSD_5_8_BASE
+/amq_clnt.c/1.8/Wed Jan 21 09:50:50 2015//TOPENBSD_5_8_BASE
+/amq_svc.c/1.10/Wed Jan 21 09:50:51 2015//TOPENBSD_5_8_BASE
+/amq_svc.ed/1.1/Thu Jan 22 03:43:58 2015//TOPENBSD_5_8_BASE
+/amq_svc.extra/1.1/Wed Jan 21 08:24:41 2015//TOPENBSD_5_8_BASE
+/amq_xdr.c/1.7/Wed Jan 21 09:50:51 2015//TOPENBSD_5_8_BASE
+/mount.h/1.8/Sun Oct 26 03:03:34 2014//TOPENBSD_5_8_BASE
+/mount_xdr.c/1.5/Mon Oct 20 02:33:42 2014//TOPENBSD_5_8_BASE
+/nfs_prot.ed/1.1/Thu Jan 22 03:43:58 2015//TOPENBSD_5_8_BASE
+/nfs_prot.h/1.7/Thu Jan 22 03:43:58 2015//TOPENBSD_5_8_BASE
+/nfs_prot.x/1.1/Thu Jan 22 03:43:58 2015//TOPENBSD_5_8_BASE
+/nfs_prot_svc.c/1.5/Thu Jan 22 03:43:58 2015//TOPENBSD_5_8_BASE
+/nfs_prot_svc.ed/1.1/Thu Jan 22 03:43:58 2015//TOPENBSD_5_8_BASE
+/nfs_prot_xdr.c/1.4/Thu Jan 22 03:43:58 2015//TOPENBSD_5_8_BASE
+D

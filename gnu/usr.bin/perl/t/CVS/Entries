@@ -1,0 +1,25 @@
+/README/1.6/Mon Sep 29 17:36:18 2008/-ko/TOPENBSD_5_8_BASE
+/TEST/1.16/Mon Nov 17 20:57:07 2014/-ko/TOPENBSD_5_8_BASE
+/harness/1.14/Mon Nov 17 20:57:07 2014/-ko/TOPENBSD_5_8_BASE
+/loc_tools.pl/1.4/Sat Apr 25 19:26:22 2015/-kb/TOPENBSD_5_8_BASE
+/perl.supp/1.1.1.2/Mon Sep 29 17:18:58 2008/-ko/TOPENBSD_5_8_BASE
+/test.pl/1.1.1.12/Mon Nov 17 20:53:16 2014/-ko/TOPENBSD_5_8_BASE
+/thread_it.pl/1.1.1.3/Mon Nov 17 20:53:16 2014/-ko/TOPENBSD_5_8_BASE
+D/base////
+D/benchmark////
+D/bigmem////
+D/cmd////
+D/comp////
+D/io////
+D/japh////
+D/lib////
+D/mro////
+D/op////
+D/opbasic////
+D/porting////
+D/re////
+D/run////
+D/test_pl////
+D/uni////
+D/win32////
+D/x2p////

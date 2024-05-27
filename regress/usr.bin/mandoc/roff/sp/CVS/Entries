@@ -1,0 +1,13 @@
+/Makefile/1.5/Fri Feb  6 09:38:22 2015//TOPENBSD_5_8_BASE
+/badargs-man.in/1.4/Tue Dec 23 09:31:17 2014//TOPENBSD_5_8_BASE
+/badargs-man.out_ascii/1.6/Tue Dec 23 09:31:17 2014//TOPENBSD_5_8_BASE
+/badargs-man.out_lint/1.1/Fri Feb  6 09:38:22 2015//TOPENBSD_5_8_BASE
+/badargs-mdoc.in/1.4/Tue Dec 23 09:31:17 2014//TOPENBSD_5_8_BASE
+/badargs-mdoc.out_ascii/1.6/Tue Dec 23 09:31:17 2014//TOPENBSD_5_8_BASE
+/negative.in/1.1/Fri Jul 13 14:15:50 2012//TOPENBSD_5_8_BASE
+/negative.out_ascii/1.2/Tue Aug 26 11:32:57 2014//TOPENBSD_5_8_BASE
+/scaling-man.in/1.1/Tue Dec 23 06:16:21 2014//TOPENBSD_5_8_BASE
+/scaling-man.out_ascii/1.1/Tue Dec 23 06:16:21 2014//TOPENBSD_5_8_BASE
+/scaling-mdoc.in/1.1/Tue Dec 23 06:16:21 2014//TOPENBSD_5_8_BASE
+/scaling-mdoc.out_ascii/1.1/Tue Dec 23 06:16:21 2014//TOPENBSD_5_8_BASE
+D

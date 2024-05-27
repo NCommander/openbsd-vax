@@ -1,0 +1,14 @@
+/Makefile/1.18/Fri Oct 31 14:10:55 2014//TOPENBSD_5_8_BASE
+D/csu////
+D/libc////
+D/libcrypto////
+D/libevent////
+D/libfuse////
+D/libm////
+D/libpthread////
+D/libradius////
+D/libskey////
+D/libsndio////
+D/libssl////
+D/libtls////
+D/libutil////

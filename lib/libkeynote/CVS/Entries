@@ -1,0 +1,29 @@
+/HOWTO.add.crypto/1.3/Tue Jan 25 09:08:09 2000//TOPENBSD_5_8_BASE
+/LICENSE/1.3/Mon Sep  3 20:14:51 2001//TOPENBSD_5_8_BASE
+/Makefile/1.19/Fri Dec 21 08:50:27 2012//TOPENBSD_5_8_BASE
+/README/1.10/Tue Sep 26 23:28:45 2000//TOPENBSD_5_8_BASE
+/assertion.h/1.5/Thu Jun 26 23:19:53 2003//TOPENBSD_5_8_BASE
+/auxil.c/1.9/Tue Jun 29 11:35:56 2004//TOPENBSD_5_8_BASE
+/base64.c/1.11/Tue Jun 29 11:35:56 2004//TOPENBSD_5_8_BASE
+/environment.c/1.22/Wed Oct  8 11:28:07 2014//TOPENBSD_5_8_BASE
+/header.h/1.10/Tue Jun 29 11:35:56 2004//TOPENBSD_5_8_BASE
+/keynote-keygen.c/1.21/Tue Jun 29 11:35:56 2004//TOPENBSD_5_8_BASE
+/keynote-main.c/1.10/Fri Jun 25 05:06:49 2004//TOPENBSD_5_8_BASE
+/keynote-sign.c/1.16/Tue Jun 29 11:35:56 2004//TOPENBSD_5_8_BASE
+/keynote-sigver.c/1.15/Tue Jun 29 11:35:56 2004//TOPENBSD_5_8_BASE
+/keynote-ver.l/1.16/Fri Nov 29 19:00:51 2013//TOPENBSD_5_8_BASE
+/keynote-ver.y/1.10/Tue Jun 29 11:35:56 2004//TOPENBSD_5_8_BASE
+/keynote-verify.c/1.14/Tue Jun 29 11:35:56 2004//TOPENBSD_5_8_BASE
+/keynote.1/1.36/Fri Dec  5 15:06:09 2014//TOPENBSD_5_8_BASE
+/keynote.3/1.48/Fri Dec  5 15:06:09 2014//TOPENBSD_5_8_BASE
+/keynote.4/1.32/Tue Jul 16 15:21:11 2013//TOPENBSD_5_8_BASE
+/keynote.5/1.23/Tue Jul 16 15:21:11 2013//TOPENBSD_5_8_BASE
+/keynote.h/1.16/Thu Jun 24 21:34:33 2004//TOPENBSD_5_8_BASE
+/keynote.l/1.21/Wed Feb  4 20:35:51 2015//TOPENBSD_5_8_BASE
+/keynote.y/1.16/Fri Nov 29 19:00:51 2013//TOPENBSD_5_8_BASE
+/parse_assertion.c/1.14/Fri Nov 29 19:00:51 2013//TOPENBSD_5_8_BASE
+/sample-app.c/1.7/Tue Jun 29 11:35:56 2004//TOPENBSD_5_8_BASE
+/signature.c/1.19/Wed Nov 13 16:28:17 2013//TOPENBSD_5_8_BASE
+/signature.h/1.5/Mon Sep  3 20:14:51 2001//TOPENBSD_5_8_BASE
+D/Misc////
+D/testsuite////

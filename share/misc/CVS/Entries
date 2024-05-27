@@ -1,0 +1,17 @@
+/Makefile/1.13/Mon Aug 25 14:29:49 2014//TOPENBSD_5_8_BASE
+/airport/1.53/Mon May 25 14:50:10 2015//TOPENBSD_5_8_BASE
+/ascii/1.1.1.1/Wed Oct 18 08:44:44 1995//TOPENBSD_5_8_BASE
+/birthtoken/1.2/Sat Feb  3 08:22:44 2001//TOPENBSD_5_8_BASE
+/countrycodes/1.3/Sat Oct 12 02:14:15 2002//TOPENBSD_5_8_BASE
+/eqnchar/1.1.1.1/Wed Oct 18 08:44:44 1995//TOPENBSD_5_8_BASE
+/getopt/1.8/Wed Feb  1 09:27:28 2006//TOPENBSD_5_8_BASE
+/inter.phone/1.41/Sat Feb  7 23:49:00 2015//TOPENBSD_5_8_BASE
+/license.template/1.3/Thu Sep  6 01:01:58 2012//TOPENBSD_5_8_BASE
+/mdoc.template/1.15/Mon Mar 31 00:09:54 2014//TOPENBSD_5_8_BASE
+/mime.types/1.3/Sun Jun 21 12:15:09 2015//TOPENBSD_5_8_BASE
+/na.phone/1.34/Sat Feb  7 16:15:01 2015//TOPENBSD_5_8_BASE
+/operator/1.1.1.1/Wed Oct 18 08:44:44 1995//TOPENBSD_5_8_BASE
+/scsi_modes/1.4/Sun Dec  9 21:26:19 2007//TOPENBSD_5_8_BASE
+/usb_hid_usages/1.5/Mon Jul  9 18:27:28 2012//TOPENBSD_5_8_BASE
+/zipcodes/1.12/Fri Aug  8 16:36:26 2003//TOPENBSD_5_8_BASE
+D/pcvtfonts////

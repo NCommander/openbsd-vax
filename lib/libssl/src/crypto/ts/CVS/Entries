@@ -1,0 +1,13 @@
+/ts.h/1.7/Thu Jul 10 22:45:58 2014//TOPENBSD_5_8_BASE
+/ts_asn1.c/1.9/Fri Jul 24 15:25:44 2015//TOPENBSD_5_8_BASE
+/ts_conf.c/1.9/Wed Feb 11 03:19:37 2015//TOPENBSD_5_8_BASE
+/ts_err.c/1.4/Thu Jul 10 22:45:58 2014//TOPENBSD_5_8_BASE
+/ts_lib.c/1.9/Wed Jul 29 14:58:34 2015//TOPENBSD_5_8_BASE
+/ts_req_print.c/1.4/Fri Jul 11 08:44:49 2014//TOPENBSD_5_8_BASE
+/ts_req_utils.c/1.4/Fri Jul 11 08:44:49 2014//TOPENBSD_5_8_BASE
+/ts_rsp_print.c/1.5/Fri Jul 11 08:44:49 2014//TOPENBSD_5_8_BASE
+/ts_rsp_sign.c/1.18/Sat Jul 12 16:03:37 2014//TOPENBSD_5_8_BASE
+/ts_rsp_utils.c/1.5/Wed Jul 29 14:58:34 2015//TOPENBSD_5_8_BASE
+/ts_rsp_verify.c/1.16/Sun Jul 19 18:25:59 2015//TOPENBSD_5_8_BASE
+/ts_verify_ctx.c/1.8/Tue Feb 10 09:46:30 2015//TOPENBSD_5_8_BASE
+D

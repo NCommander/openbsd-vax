@@ -1,0 +1,23 @@
+/00use.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/01local-client-v4.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/02local-server-v4.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/03local-cross-v4.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/04local-client-v6.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/05local-server-v6.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/06local-cross-v6.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/10args.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/11sockopts.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/12port-fallback.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/13addrinfo.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/14fileno.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/15io-socket.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/16v6only.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/17gai-flags.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/18fdopen.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/19no-addrs.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/20subclass.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/21as-inet.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/30nonblocking-connect.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/31nonblocking-connect-internet.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+/99pod.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_5_8_BASE
+D

@@ -1,0 +1,19 @@
+/iter_delegpt.c/1.1.1.6/Thu Jul 16 01:42:20 2015//TOPENBSD_5_8_BASE
+/iter_delegpt.h/1.1.1.4/Sun Mar 16 11:38:25 2014//TOPENBSD_5_8_BASE
+/iter_donotq.c/1.1.1.2/Sun Mar 16 11:38:24 2014//TOPENBSD_5_8_BASE
+/iter_donotq.h/1.1.1.2/Sun Mar 16 11:38:25 2014//TOPENBSD_5_8_BASE
+/iter_fwd.c/1.1.1.6/Thu Jul 16 01:42:20 2015//TOPENBSD_5_8_BASE
+/iter_fwd.h/1.1.1.4/Sun Mar 16 11:38:25 2014//TOPENBSD_5_8_BASE
+/iter_hints.c/1.6/Thu Jul 16 01:44:00 2015//TOPENBSD_5_8_BASE
+/iter_hints.h/1.1.1.3/Sun Mar 16 11:38:25 2014//TOPENBSD_5_8_BASE
+/iter_priv.c/1.1.1.4/Thu Jul 16 01:42:20 2015//TOPENBSD_5_8_BASE
+/iter_priv.h/1.1.1.3/Sun Mar 16 11:38:24 2014//TOPENBSD_5_8_BASE
+/iter_resptype.c/1.4/Thu Jul 16 01:44:00 2015//TOPENBSD_5_8_BASE
+/iter_resptype.h/1.1.1.2/Sun Mar 16 11:38:25 2014//TOPENBSD_5_8_BASE
+/iter_scrub.c/1.3/Thu Jul 16 01:44:00 2015//TOPENBSD_5_8_BASE
+/iter_scrub.h/1.1.1.2/Sun Mar 16 11:38:25 2014//TOPENBSD_5_8_BASE
+/iter_utils.c/1.4/Thu Jul 16 01:44:00 2015//TOPENBSD_5_8_BASE
+/iter_utils.h/1.4/Thu Jul 16 01:44:00 2015//TOPENBSD_5_8_BASE
+/iterator.c/1.6/Thu Jul 16 01:44:00 2015//TOPENBSD_5_8_BASE
+/iterator.h/1.3/Thu Jul 16 01:44:00 2015//TOPENBSD_5_8_BASE
+D

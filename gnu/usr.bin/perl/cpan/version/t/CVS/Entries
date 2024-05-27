@@ -1,0 +1,12 @@
+/00impl-pp.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/01base.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/02derived.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/03require.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/04strict_lax.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/05sigdie.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/06noop.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/07locale.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/08_corelist.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/09_list_util.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+/coretests.pm/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_8_BASE
+D

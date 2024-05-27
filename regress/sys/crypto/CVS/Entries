@@ -1,0 +1,10 @@
+/Makefile/1.10/Thu Jul  3 21:12:24 2014//TOPENBSD_5_8_BASE
+D/aes////
+D/aesctr////
+D/aesxts////
+D/auth////
+D/cmac////
+D/enc////
+D/gmac////
+D/hmac////
+D/key_wrap////

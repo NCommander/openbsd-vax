@@ -1,0 +1,12 @@
+/Makefile/1.2/Tue Feb 10 11:02:19 2015//TOPENBSD_5_8_BASE
+/badfont.in/1.1/Tue Feb 10 11:02:19 2015//TOPENBSD_5_8_BASE
+/badfont.out_ascii/1.1/Tue Feb 10 11:02:19 2015//TOPENBSD_5_8_BASE
+/badfont.out_lint/1.1/Tue Feb 10 11:02:19 2015//TOPENBSD_5_8_BASE
+/expand.in/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_8_BASE
+/expand.out_ascii/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_8_BASE
+/font.in/1.2/Tue Feb 10 11:02:19 2015//TOPENBSD_5_8_BASE
+/font.out_ascii/1.2/Tue Feb 10 11:02:19 2015//TOPENBSD_5_8_BASE
+/font.out_lint/1.1/Tue Feb 10 11:02:19 2015//TOPENBSD_5_8_BASE
+/misalign.in/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_8_BASE
+/misalign.out_ascii/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_8_BASE
+D

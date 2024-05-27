@@ -1,0 +1,14 @@
+/README/1.2/Fri Oct  1 22:58:54 2010//TOPENBSD_5_8_BASE
+/conf.h/1.14/Sat Feb  7 13:19:15 2015//TOPENBSD_5_8_BASE
+/conf_api.c/1.15/Sat Apr 11 16:03:21 2015//TOPENBSD_5_8_BASE
+/conf_api.h/1.4/Thu Jun 12 15:49:28 2014//TOPENBSD_5_8_BASE
+/conf_def.c/1.31/Sat Jul 18 22:42:09 2015//TOPENBSD_5_8_BASE
+/conf_def.h/1.5/Thu Jun 12 15:49:28 2014//TOPENBSD_5_8_BASE
+/conf_err.c/1.12/Thu Jul 10 22:45:56 2014//TOPENBSD_5_8_BASE
+/conf_lib.c/1.13/Sat Feb  7 13:19:15 2015//TOPENBSD_5_8_BASE
+/conf_mall.c/1.9/Fri Jul 11 08:44:48 2014//TOPENBSD_5_8_BASE
+/conf_mod.c/1.26/Sat Apr 11 16:03:21 2015//TOPENBSD_5_8_BASE
+/conf_sap.c/1.11/Wed Feb 11 03:19:37 2015//TOPENBSD_5_8_BASE
+/keysets.pl/1.5/Tue Apr 15 17:46:16 2014//TOPENBSD_5_8_BASE
+/ssleay.cnf/1.1.1.1/Mon Oct  5 20:12:40 1998//TOPENBSD_5_8_BASE
+D

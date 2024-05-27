@@ -1,0 +1,11 @@
+/Makefile/1.1/Thu Nov  1 10:49:11 2012//TOPENBSD_5_8_BASE
+/follow-newsyslog.sh/1.2/Sat Nov  3 08:41:25 2012//TOPENBSD_5_8_BASE
+/follow-overwrite-by-file.out/1.1/Thu Nov  1 10:49:11 2012//TOPENBSD_5_8_BASE
+/follow-overwrite-by-file.sh/1.2/Sat Nov  3 08:41:25 2012//TOPENBSD_5_8_BASE
+/follow-overwrite-data.out/1.1/Thu Nov  1 10:49:11 2012//TOPENBSD_5_8_BASE
+/follow-overwrite-data.sh/1.2/Sat Nov  3 08:41:25 2012//TOPENBSD_5_8_BASE
+/follow-removed-recreated.out/1.1/Thu Nov  1 10:49:11 2012//TOPENBSD_5_8_BASE
+/follow-removed-recreated.sh/1.2/Sat Nov  3 08:41:25 2012//TOPENBSD_5_8_BASE
+/follow-renames.out/1.1/Thu Nov  1 10:49:11 2012//TOPENBSD_5_8_BASE
+/follow-renames.sh/1.2/Sat Nov  3 08:41:25 2012//TOPENBSD_5_8_BASE
+D

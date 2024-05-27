@@ -1,0 +1,10 @@
+/01_compile.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/02_extbrk.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/03_extcbk.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/04_extdel.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/05_extmul.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/06_extqlk.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/07_exttag.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/08_extvar.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/09_gentag.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+D

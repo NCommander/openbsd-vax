@@ -1,0 +1,15 @@
+/export.t/1.1.1.2/Mon Nov 17 20:53:06 2014/-ko/TOPENBSD_5_8_BASE
+/is.t/1.1.1.5/Mon Nov 17 20:53:06 2014/-ko/TOPENBSD_5_8_BASE
+/math.t/1.1.1.2/Mon Mar 25 20:08:46 2013/-ko/TOPENBSD_5_8_BASE
+/posix.t/1.6/Sat Apr 25 19:26:22 2015/-ko/TOPENBSD_5_8_BASE
+/sigaction.t/1.1.1.5/Mon Mar 25 20:08:46 2013/-ko/TOPENBSD_5_8_BASE
+/sigset.t/1.1.1.1/Mon Mar 25 20:08:46 2013/-ko/TOPENBSD_5_8_BASE
+/sysconf.t/1.1.1.6/Mon Nov 17 20:53:06 2014/-ko/TOPENBSD_5_8_BASE
+/taint.t/1.1.1.4/Mon Mar 24 14:59:02 2014/-ko/TOPENBSD_5_8_BASE
+/termios.t/1.1.1.3/Mon Mar 25 20:08:46 2013/-ko/TOPENBSD_5_8_BASE
+/time.t/1.1.1.4/Mon Nov 17 20:53:06 2014/-ko/TOPENBSD_5_8_BASE
+/unimplemented.t/1.1.1.1/Mon Mar 25 20:08:46 2013/-ko/TOPENBSD_5_8_BASE
+/usage.t/1.1.1.1/Mon Mar 25 20:08:46 2013/-ko/TOPENBSD_5_8_BASE
+/waitpid.t/1.1.1.4/Mon Mar 25 20:08:46 2013/-ko/TOPENBSD_5_8_BASE
+/wrappers.t/1.1.1.2/Mon Nov 17 20:53:06 2014/-ko/TOPENBSD_5_8_BASE
+D

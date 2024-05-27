@@ -1,0 +1,6 @@
+/0-signature.t/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/TOPENBSD_5_8_BASE
+/1-basic.t/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/TOPENBSD_5_8_BASE
+/2-load_po_without_i_default.t/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/TOPENBSD_5_8_BASE
+/3-load_po_with_i_default.t/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/TOPENBSD_5_8_BASE
+D/po_with_i_default////
+D/po_without_i_default////

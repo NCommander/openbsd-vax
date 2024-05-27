@@ -1,0 +1,23 @@
+/INSTALL/1.49/Wed Aug  6 02:34:23 2014//TOPENBSD_5_8_BASE
+/Makefile/1.41/Tue Mar 18 22:36:28 2014//TOPENBSD_5_8_BASE
+/m4.common/1.113/Thu Oct 23 21:33:21 2014//TOPENBSD_5_8_BASE
+/mirrors/1.119/Wed Mar 12 20:47:36 2014//TOPENBSD_5_8_BASE
+/packages/1.46/Fri Jul 26 20:07:29 2013//TOPENBSD_5_8_BASE
+D/alpha////
+D/amd64////
+D/armish////
+D/armv7////
+D/aviion////
+D/hppa////
+D/i386////
+D/landisk////
+D/loongson////
+D/luna88k////
+D/macppc////
+D/octeon////
+D/sgi////
+D/socppc////
+D/sparc////
+D/sparc64////
+D/vax////
+D/zaurus////

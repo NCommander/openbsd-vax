@@ -1,0 +1,15 @@
+/Makefile/1.8/Wed Jul  2 05:51:49 2014//TOPENBSD_5_8_BASE
+/empty.in/1.1/Wed Jul 18 16:51:50 2012//TOPENBSD_5_8_BASE
+/empty.out_ascii/1.2/Tue Aug 26 11:32:53 2014//TOPENBSD_5_8_BASE
+/empty.out_lint/1.1/Wed Jul  2 05:51:49 2014//TOPENBSD_5_8_BASE
+/literal.in/1.4/Thu Nov 17 16:28:45 2011//TOPENBSD_5_8_BASE
+/literal.out_ascii/1.6/Tue Aug 26 11:32:53 2014//TOPENBSD_5_8_BASE
+/longhead.in/1.1/Tue Apr  8 07:13:01 2014//TOPENBSD_5_8_BASE
+/longhead.out_ascii/1.2/Tue Aug 26 11:32:53 2014//TOPENBSD_5_8_BASE
+/manyargs.in/1.4/Thu Nov 17 16:28:45 2011//TOPENBSD_5_8_BASE
+/manyargs.out_ascii/1.6/Tue Aug 26 11:32:53 2014//TOPENBSD_5_8_BASE
+/spacing.in/1.2/Thu Nov 17 16:28:45 2011//TOPENBSD_5_8_BASE
+/spacing.out_ascii/1.4/Tue Aug 26 11:32:53 2014//TOPENBSD_5_8_BASE
+/width.in/1.7/Tue Dec 23 13:48:15 2014//TOPENBSD_5_8_BASE
+/width.out_ascii/1.9/Tue Dec 23 13:48:15 2014//TOPENBSD_5_8_BASE
+D

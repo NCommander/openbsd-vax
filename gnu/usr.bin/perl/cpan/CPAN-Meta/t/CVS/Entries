@@ -1,0 +1,17 @@
+/converter-bad.t/1.1.1.2/Mon Nov 17 20:52:43 2014/-ko/TOPENBSD_5_8_BASE
+/converter-fail.t/1.1.1.2/Mon Nov 17 20:52:43 2014/-ko/TOPENBSD_5_8_BASE
+/converter.t/1.1.1.2/Mon Nov 17 20:52:43 2014/-ko/TOPENBSD_5_8_BASE
+/load-bad.t/1.1.1.2/Mon Nov 17 20:52:43 2014/-ko/TOPENBSD_5_8_BASE
+/meta-obj.t/1.1.1.1/Mon Mar 25 20:06:55 2013/-ko/TOPENBSD_5_8_BASE
+/no-index.t/1.1.1.2/Mon Nov 17 20:52:43 2014/-ko/TOPENBSD_5_8_BASE
+/prereqs-finalize.t/1.1.1.1/Mon Mar 25 20:06:55 2013/-ko/TOPENBSD_5_8_BASE
+/prereqs-merge.t/1.1.1.1/Mon Mar 25 20:06:55 2013/-ko/TOPENBSD_5_8_BASE
+/prereqs.t/1.1.1.3/Mon Nov 17 20:52:43 2014/-ko/TOPENBSD_5_8_BASE
+/repository.t/1.1.1.1/Mon Mar 25 20:06:55 2013/-ko/TOPENBSD_5_8_BASE
+/save-load.t/1.1.1.2/Mon Nov 17 20:52:43 2014/-ko/TOPENBSD_5_8_BASE
+/strings.t/1.1.1.2/Mon Mar 24 14:58:50 2014/-ko/TOPENBSD_5_8_BASE
+/validator.t/1.1.1.2/Mon Nov 17 20:52:43 2014/-ko/TOPENBSD_5_8_BASE
+D/data-fail////
+D/data-fixable////
+D/data-test////
+D/data-valid////

@@ -1,0 +1,98 @@
+/AnyDBM_File.pm/1.12/Sat Apr 25 19:26:22 2015/-ko/TOPENBSD_5_8_BASE
+/AnyDBM_File.t/1.1.1.6/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/Benchmark.pm/1.15/Mon Nov 17 20:57:06 2014/-ko/TOPENBSD_5_8_BASE
+/Benchmark.t/1.1.1.6/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/CORE.pod/1.1.1.3/Mon Mar 24 14:59:03 2014/-ko/TOPENBSD_5_8_BASE
+/Config.t/1.6/Sat Apr 25 19:26:22 2015/-ko/TOPENBSD_5_8_BASE
+/Config_git.pl/1.1/Thu May 20 19:26:32 2010/-ko/TOPENBSD_5_8_BASE
+/DB.pm/1.1.1.7/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/DB.t/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/TOPENBSD_5_8_BASE
+/DBM_Filter.pm/1.1.1.6/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/DirHandle.pm/1.1.1.5/Mon Mar 25 20:08:51 2013/-ko/TOPENBSD_5_8_BASE
+/DirHandle.t/1.1.1.4/Mon Mar 25 20:08:51 2013/-ko/TOPENBSD_5_8_BASE
+/English.pm/1.12/Mon Nov 17 20:57:06 2014/-ko/TOPENBSD_5_8_BASE
+/English.t/1.1.1.5/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/FileHandle.pm/1.6/Mon Oct 12 18:24:38 2009/-ko/TOPENBSD_5_8_BASE
+/FileHandle.t/1.1.1.4/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/FindBin.pm/1.9/Mon Mar 25 20:40:55 2013/-ko/TOPENBSD_5_8_BASE
+/FindBin.t/1.1.1.3/Fri Sep 24 14:48:36 2010/-ko/TOPENBSD_5_8_BASE
+/Internals.t/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/TOPENBSD_5_8_BASE
+/PerlIO.pm/1.1.1.8/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/SelectSaver.pm/1.5/Mon Oct 12 18:24:38 2009/-ko/TOPENBSD_5_8_BASE
+/SelectSaver.t/1.1.1.1/Sun Oct 27 22:14:58 2002/-ko/TOPENBSD_5_8_BASE
+/Symbol.pm/1.8/Mon Oct 12 18:24:38 2009/-ko/TOPENBSD_5_8_BASE
+/Symbol.t/1.1.1.3/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/Thread.pm/1.1.1.3/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/Thread.t/1.1.1.1/Mon Sep 29 17:18:31 2008/-ko/TOPENBSD_5_8_BASE
+/UNIVERSAL.pm/1.8/Mon Mar 25 20:40:55 2013/-ko/TOPENBSD_5_8_BASE
+/_charnames.pm/1.1.1.3/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/blib.pm/1.8/Mon Mar 25 20:40:55 2013/-ko/TOPENBSD_5_8_BASE
+/blib.t/1.1.1.3/Fri Sep 24 14:48:34 2010/-ko/TOPENBSD_5_8_BASE
+/bytes.pm/1.1.1.7/Fri Sep 24 14:48:37 2010/-ko/TOPENBSD_5_8_BASE
+/bytes.t/1.1.1.5/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/bytes_heavy.pl/1.1.1.3/Mon Sep 29 17:18:30 2008/-ko/TOPENBSD_5_8_BASE
+/charnames.pm/1.1.1.12/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/charnames.t/1.1.1.9/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/dbm_filter_util.pl/1.1.1.2/Mon Mar 24 14:59:03 2014/-ko/TOPENBSD_5_8_BASE
+/deprecate.pm/1.1.1.3/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/diagnostics.pm/1.16/Mon Nov 17 20:57:06 2014/-ko/TOPENBSD_5_8_BASE
+/diagnostics.t/1.1.1.5/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/dumpvar.pl/1.10/Mon Mar 24 15:05:27 2014/-ko/TOPENBSD_5_8_BASE
+/dumpvar.t/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/TOPENBSD_5_8_BASE
+/feature.pm/1.1.1.7/Sat Apr 25 19:10:38 2015/-ko/TOPENBSD_5_8_BASE
+/feature.t/1.1.1.2/Mon Mar 25 20:08:52 2013/-ko/TOPENBSD_5_8_BASE
+/filetest.pm/1.1.1.5/Mon Mar 24 14:59:03 2014/-ko/TOPENBSD_5_8_BASE
+/filetest.t/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/TOPENBSD_5_8_BASE
+/h2ph.t/1.1.1.3/Mon Mar 25 20:08:52 2013/-ko/TOPENBSD_5_8_BASE
+/h2xs.t/1.1.1.8/Mon Mar 24 14:59:03 2014/-ko/TOPENBSD_5_8_BASE
+/integer.pm/1.1.1.6/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/integer.t/1.1.1.2/Mon Sep 29 17:18:30 2008/-ko/TOPENBSD_5_8_BASE
+/less.pm/1.1.1.4/Fri Sep 24 14:48:38 2010/-ko/TOPENBSD_5_8_BASE
+/less.t/1.1.1.3/Fri Sep 24 14:48:35 2010/-ko/TOPENBSD_5_8_BASE
+/locale.pm/1.6/Mon Nov 17 20:57:06 2014/-ko/TOPENBSD_5_8_BASE
+/locale.t/1.7/Sat Apr 25 19:26:22 2015/-ko/TOPENBSD_5_8_BASE
+/open.pm/1.1.1.9/Mon Mar 25 20:08:52 2013/-ko/TOPENBSD_5_8_BASE
+/open.t/1.1.1.7/Mon Mar 25 20:08:52 2013/-ko/TOPENBSD_5_8_BASE
+/overload.pm/1.14/Mon Mar 24 15:05:27 2014/-ko/TOPENBSD_5_8_BASE
+/overload.t/1.1.1.11/Mon Nov 17 20:53:07 2014/-ko/TOPENBSD_5_8_BASE
+/overload64.t/1.1.1.2/Mon Mar 25 20:08:52 2013/-ko/TOPENBSD_5_8_BASE
+/overloading.pm/1.1.1.2/Mon Mar 25 20:08:52 2013/-ko/TOPENBSD_5_8_BASE
+/overloading.t/1.1.1.2/Mon Mar 25 20:08:52 2013/-ko/TOPENBSD_5_8_BASE
+/perl5db.pl/1.18/Mon Nov 17 20:57:06 2014/-ko/TOPENBSD_5_8_BASE
+/perl5db.t/1.1.1.6/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/sigtrap.pm/1.5/Mon Mar 24 15:05:27 2014/-ko/TOPENBSD_5_8_BASE
+/sigtrap.t/1.1.1.2/Mon Mar 25 20:08:53 2013/-ko/TOPENBSD_5_8_BASE
+/sort.pm/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/TOPENBSD_5_8_BASE
+/sort.t/1.1.1.3/Mon Sep 29 17:18:31 2008/-ko/TOPENBSD_5_8_BASE
+/strict.pm/1.10/Mon Nov 17 20:57:06 2014/-ko/TOPENBSD_5_8_BASE
+/strict.t/1.1.1.6/Mon Mar 25 20:08:53 2013/-ko/TOPENBSD_5_8_BASE
+/subs.pm/1.6/Mon Nov 17 20:57:06 2014/-ko/TOPENBSD_5_8_BASE
+/subs.t/1.1.1.4/Mon Mar 25 20:08:53 2013/-ko/TOPENBSD_5_8_BASE
+/utf8.pm/1.1.1.11/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/utf8.t/1.9/Mon Nov 17 20:57:06 2014/-ko/TOPENBSD_5_8_BASE
+/utf8_heavy.pl/1.1.1.9/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/vars.pm/1.9/Mon Mar 24 15:05:27 2014/-ko/TOPENBSD_5_8_BASE
+/vars.t/1.1.1.1/Sun Oct 27 22:14:58 2002/-ko/TOPENBSD_5_8_BASE
+/vars_carp.t/1.1.1.1/Mon Sep 29 17:18:31 2008/-ko/TOPENBSD_5_8_BASE
+/vmsish.pm/1.1.1.5/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/vmsish.t/1.1.1.6/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/warnings.pm/1.1.1.12/Mon Nov 17 20:53:08 2014/-ko/TOPENBSD_5_8_BASE
+/warnings.t/1.1.1.5/Mon Mar 25 20:08:54 2013/-ko/TOPENBSD_5_8_BASE
+D/B////
+D/Class////
+D/Config////
+D/DBM_Filter////
+D/ExtUtils////
+D/File////
+D/Getopt////
+D/Net////
+D/Pod////
+D/Tie////
+D/Time////
+D/Unicode////
+D/User////
+D/feature////
+D/overload////
+D/perl5db////
+D/unicore////
+D/warnings////

@@ -1,0 +1,82 @@
+/alphacpuid.pl/1.3/Thu Apr 17 18:49:35 2014//TOPENBSD_5_8_BASE
+/arm_arch.h/1.7/Mon Jun 29 06:40:06 2015//TOPENBSD_5_8_BASE
+/armcap.c/1.6/Fri Jun 20 21:00:46 2014//TOPENBSD_5_8_BASE
+/armv4cpuid.S/1.5/Sat May  3 19:36:47 2014//TOPENBSD_5_8_BASE
+/cpt_err.c/1.13/Thu Jul 10 22:45:56 2014//TOPENBSD_5_8_BASE
+/cryptlib.c/1.35/Sat Jun 27 22:42:02 2015//TOPENBSD_5_8_BASE
+/cryptlib.h/1.24/Fri Jul 11 08:44:47 2014//TOPENBSD_5_8_BASE
+/crypto.h/1.35/Sat Jun 20 12:01:54 2015//TOPENBSD_5_8_BASE
+/cversion.c/1.15/Fri Jul 11 11:42:28 2014//TOPENBSD_5_8_BASE
+/ex_data.c/1.18/Tue Feb 10 11:22:21 2015//TOPENBSD_5_8_BASE
+/ia64cpuid.S/1.3/Thu Apr 17 18:49:35 2014//TOPENBSD_5_8_BASE
+/malloc-wrapper.c/1.3/Sun Apr 20 14:32:19 2014//TOPENBSD_5_8_BASE
+/md32_common.h/1.20/Sun Nov  9 19:08:24 2014//TOPENBSD_5_8_BASE
+/mem_clr.c/1.4/Thu Jun 12 15:49:27 2014//TOPENBSD_5_8_BASE
+/mem_dbg.c/1.22/Thu Jun 12 15:49:27 2014//TOPENBSD_5_8_BASE
+/o_init.c/1.8/Thu Jun 12 15:49:27 2014//TOPENBSD_5_8_BASE
+/o_str.c/1.9/Wed Jul  9 20:22:14 2014//TOPENBSD_5_8_BASE
+/o_time.c/1.15/Thu Jun 12 15:49:27 2014//TOPENBSD_5_8_BASE
+/o_time.h/1.6/Thu Jun 12 15:49:27 2014//TOPENBSD_5_8_BASE
+/opensslfeatures.h/1.9/Sun Jul 19 22:34:27 2015//TOPENBSD_5_8_BASE
+/opensslv.h/1.30/Thu Jul 16 22:36:50 2015//TOPENBSD_5_8_BASE
+/ossl_typ.h/1.12/Thu Jun 12 15:49:27 2014//TOPENBSD_5_8_BASE
+/pariscid.pl/1.5/Thu May  1 22:26:21 2014//TOPENBSD_5_8_BASE
+/ppccap.c/1.6/Thu Jul 17 23:48:24 2014//TOPENBSD_5_8_BASE
+/ppccpuid.pl/1.4/Sat May  3 11:39:46 2014//TOPENBSD_5_8_BASE
+/s390xcap.c/1.3/Thu Jun 12 15:49:27 2014//TOPENBSD_5_8_BASE
+/s390xcpuid.S/1.3/Thu Apr 17 18:49:35 2014//TOPENBSD_5_8_BASE
+/sparccpuid.S/1.3/Thu Apr 17 18:49:35 2014//TOPENBSD_5_8_BASE
+/sparcv9cap.c/1.7/Fri Jun 20 21:00:46 2014//TOPENBSD_5_8_BASE
+/x86_64cpuid.pl/1.11/Mon Jun  2 15:08:37 2014//TOPENBSD_5_8_BASE
+/x86cpuid.pl/1.6/Fri Jun 20 15:49:42 2014//TOPENBSD_5_8_BASE
+D/aes////
+D/asn1////
+D/bf////
+D/bio////
+D/bn////
+D/buffer////
+D/camellia////
+D/cast////
+D/chacha////
+D/cmac////
+D/cms////
+D/comp////
+D/conf////
+D/des////
+D/dh////
+D/dsa////
+D/dso////
+D/ec////
+D/ecdh////
+D/ecdsa////
+D/engine////
+D/err////
+D/evp////
+D/gost////
+D/hmac////
+D/idea////
+D/krb5////
+D/lhash////
+D/md4////
+D/md5////
+D/modes////
+D/objects////
+D/ocsp////
+D/pem////
+D/perlasm////
+D/pkcs12////
+D/pkcs7////
+D/poly1305////
+D/rand////
+D/rc2////
+D/rc4////
+D/ripemd////
+D/rsa////
+D/sha////
+D/stack////
+D/ts////
+D/txt_db////
+D/ui////
+D/whrlpool////
+D/x509////
+D/x509v3////

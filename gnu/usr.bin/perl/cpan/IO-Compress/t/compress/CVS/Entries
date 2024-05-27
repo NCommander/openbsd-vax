@@ -1,0 +1,15 @@
+/CompTestUtils.pm/1.1.1.2/Mon Mar 25 20:07:45 2013/-ko/TOPENBSD_5_8_BASE
+/any.pl/1.1.1.1/Fri Sep 24 14:49:05 2010/-ko/TOPENBSD_5_8_BASE
+/anyunc.pl/1.1.1.1/Fri Sep 24 14:49:05 2010/-ko/TOPENBSD_5_8_BASE
+/destroy.pl/1.1.1.1/Fri Sep 24 14:49:05 2010/-ko/TOPENBSD_5_8_BASE
+/encode.pl/1.1.1.2/Mon Mar 24 14:58:53 2014/-ko/TOPENBSD_5_8_BASE
+/generic.pl/1.1.1.3/Mon Nov 17 20:52:48 2014/-ko/TOPENBSD_5_8_BASE
+/merge.pl/1.1.1.2/Mon Mar 25 20:07:45 2013/-ko/TOPENBSD_5_8_BASE
+/multi.pl/1.1.1.2/Mon Mar 25 20:07:45 2013/-ko/TOPENBSD_5_8_BASE
+/newtied.pl/1.1.1.1/Fri Sep 24 14:49:05 2010/-ko/TOPENBSD_5_8_BASE
+/oneshot.pl/1.1.1.3/Mon Nov 17 20:52:48 2014/-ko/TOPENBSD_5_8_BASE
+/prime.pl/1.1.1.1/Fri Sep 24 14:49:05 2010/-ko/TOPENBSD_5_8_BASE
+/tied.pl/1.1.1.2/Mon Mar 25 20:07:45 2013/-ko/TOPENBSD_5_8_BASE
+/truncate.pl/1.1.1.3/Mon Nov 17 20:52:48 2014/-ko/TOPENBSD_5_8_BASE
+/zlib-generic.pl/1.1.1.1/Fri Sep 24 14:49:05 2010/-ko/TOPENBSD_5_8_BASE
+D

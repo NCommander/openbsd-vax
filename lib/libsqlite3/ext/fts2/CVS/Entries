@@ -1,0 +1,13 @@
+/README.tokenizers/1.1.1.1/Sat Apr 14 13:13:18 2012//TOPENBSD_5_8_BASE
+/README.txt/1.1.1.1/Sat Apr 14 13:13:18 2012//TOPENBSD_5_8_BASE
+/fts2.c/1.1.1.4/Sat Sep 21 17:29:18 2013//TOPENBSD_5_8_BASE
+/fts2.h/1.1.1.1/Sat Apr 14 13:13:18 2012//TOPENBSD_5_8_BASE
+/fts2_hash.c/1.1.1.2/Sat Sep 21 17:29:18 2013//TOPENBSD_5_8_BASE
+/fts2_hash.h/1.1.1.2/Sun Jun  9 14:42:35 2013//TOPENBSD_5_8_BASE
+/fts2_icu.c/1.1.1.2/Mon Mar 18 10:45:30 2013//TOPENBSD_5_8_BASE
+/fts2_porter.c/1.1.1.2/Sat Sep 21 17:29:19 2013//TOPENBSD_5_8_BASE
+/fts2_tokenizer.c/1.1.1.3/Sat Sep 21 17:29:19 2013//TOPENBSD_5_8_BASE
+/fts2_tokenizer.h/1.1.1.2/Sun Jun  9 14:42:35 2013//TOPENBSD_5_8_BASE
+/fts2_tokenizer1.c/1.1.1.2/Sat Sep 21 17:29:19 2013//TOPENBSD_5_8_BASE
+/mkfts2amal.tcl/1.1.1.1/Sat Apr 14 13:13:18 2012//TOPENBSD_5_8_BASE
+D

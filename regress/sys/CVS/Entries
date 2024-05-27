@@ -1,0 +1,14 @@
+/Makefile/1.19/Thu Oct 31 01:24:06 2013//TOPENBSD_5_8_BASE
+D/arch////
+D/copy////
+D/crypto////
+D/ddb////
+D/dev////
+D/ffs////
+D/fifofs////
+D/kern////
+D/net////
+D/netinet6////
+D/ptrace////
+D/sys////
+D/uvm////

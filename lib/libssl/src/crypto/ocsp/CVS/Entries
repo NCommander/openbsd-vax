@@ -1,0 +1,11 @@
+/ocsp.h/1.6/Thu Jun 12 15:49:30 2014//TOPENBSD_5_8_BASE
+/ocsp_asn.c/1.8/Sat Jul 25 14:52:47 2015//TOPENBSD_5_8_BASE
+/ocsp_cl.c/1.8/Sat Oct 18 17:20:40 2014//TOPENBSD_5_8_BASE
+/ocsp_err.c/1.7/Thu Jul 10 22:45:57 2014//TOPENBSD_5_8_BASE
+/ocsp_ext.c/1.14/Sun Jul 19 18:29:31 2015//TOPENBSD_5_8_BASE
+/ocsp_ht.c/1.22/Fri Oct  3 06:02:38 2014//TOPENBSD_5_8_BASE
+/ocsp_lib.c/1.18/Tue Feb 10 05:25:45 2015//TOPENBSD_5_8_BASE
+/ocsp_prn.c/1.8/Thu Jul 16 02:16:19 2015//TOPENBSD_5_8_BASE
+/ocsp_srv.c/1.7/Sat Oct 18 17:20:40 2014//TOPENBSD_5_8_BASE
+/ocsp_vfy.c/1.12/Wed Jul  9 19:08:10 2014//TOPENBSD_5_8_BASE
+D

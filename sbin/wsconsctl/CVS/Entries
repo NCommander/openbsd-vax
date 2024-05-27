@@ -1,0 +1,13 @@
+/Makefile/1.38/Tue May 26 02:01:53 2015//TOPENBSD_5_8_BASE
+/display.c/1.20/Fri May  8 19:12:51 2015//TOPENBSD_5_8_BASE
+/keyboard.c/1.12/Thu Mar 21 06:04:05 2013//TOPENBSD_5_8_BASE
+/keysym.c/1.8/Sun Feb 15 01:56:16 2015//TOPENBSD_5_8_BASE
+/map_parse.y/1.7/Sat Jul 14 08:27:05 2012//TOPENBSD_5_8_BASE
+/map_scan.l/1.5/Sat Apr 18 18:28:37 2015//TOPENBSD_5_8_BASE
+/mkkeysym.sh/1.2/Mon Jun 28 20:40:39 2010//TOPENBSD_5_8_BASE
+/mouse.c/1.13/Wed Aug  8 16:44:07 2012//TOPENBSD_5_8_BASE
+/util.c/1.62/Sun Nov 17 13:41:26 2013//TOPENBSD_5_8_BASE
+/wsconsctl.8/1.23/Mon Aug  4 07:32:51 2008//TOPENBSD_5_8_BASE
+/wsconsctl.c/1.29/Fri May  8 19:12:51 2015//TOPENBSD_5_8_BASE
+/wsconsctl.h/1.15/Fri May  8 19:12:51 2015//TOPENBSD_5_8_BASE
+D

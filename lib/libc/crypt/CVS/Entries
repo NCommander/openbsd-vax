@@ -1,0 +1,14 @@
+/Makefile.inc/1.26/Mon Dec  8 20:46:04 2014//TOPENBSD_5_8_BASE
+/arc4random.3/1.35/Tue Nov 25 16:45:24 2014//TOPENBSD_5_8_BASE
+/arc4random.c/1.52/Fri Jan 16 16:48:51 2015//TOPENBSD_5_8_BASE
+/arc4random.h/1.4/Thu Jan 15 06:57:18 2015//TOPENBSD_5_8_BASE
+/arc4random_uniform.c/1.1/Sat Jul 12 13:24:54 2014//TOPENBSD_5_8_BASE
+/bcrypt.c/1.53/Sat Jul 18 00:56:37 2015//TOPENBSD_5_8_BASE
+/blowfish.3/1.22/Tue Jul 16 15:21:11 2013//TOPENBSD_5_8_BASE
+/blowfish.c/1.18/Tue Nov  2 17:23:26 2004//TOPENBSD_5_8_BASE
+/chacha_private.h/1.2/Fri Oct  4 07:02:27 2013//TOPENBSD_5_8_BASE
+/crypt.3/1.45/Mon Apr  6 20:49:41 2015//TOPENBSD_5_8_BASE
+/crypt.c/1.30/Sat Jul 18 01:18:50 2015//TOPENBSD_5_8_BASE
+/crypt_checkpass.3/1.9/Thu Jul 23 22:20:02 2015//TOPENBSD_5_8_BASE
+/cryptutil.c/1.10/Thu Jul 23 22:19:03 2015//TOPENBSD_5_8_BASE
+D

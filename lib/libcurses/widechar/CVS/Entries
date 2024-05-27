@@ -1,0 +1,21 @@
+/charable.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_add_wch.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_box_set.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_cchar.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_erasewchar.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_get_wch.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_get_wstr.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_hline_set.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_in_wch.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_in_wchnstr.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_ins_wch.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_inwstr.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_key_name.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_pecho_wchar.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_slk_wset.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_unget_wch.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_vid_attr.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_vline_set.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_wacs.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+/lib_wunctrl.c/1.1/Mon Sep  6 17:26:17 2010//TOPENBSD_5_8_BASE
+D

@@ -1,0 +1,33 @@
+/Makefile/1.13/Wed Jul 16 19:57:34 2014//TOPENBSD_5_8_BASE
+/Makefile.inc/1.6/Fri Jul 11 13:13:04 2014//TOPENBSD_5_8_BASE
+D/cat////
+D/chio////
+D/chmod////
+D/cp////
+D/csh////
+D/date////
+D/dd////
+D/df////
+D/domainname////
+D/echo////
+D/ed////
+D/expr////
+D/hostname////
+D/kill////
+D/ksh////
+D/ln////
+D/ls////
+D/md5////
+D/mkdir////
+D/mt////
+D/mv////
+D/pax////
+D/ps////
+D/pwd////
+D/rm////
+D/rmdir////
+D/sleep////
+D/stty////
+D/sync////
+D/systrace////
+D/test////

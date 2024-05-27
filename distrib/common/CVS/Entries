@@ -1,0 +1,6 @@
+/elf32.c/1.2/Tue Jan 20 04:41:01 2015//TOPENBSD_5_8_BASE
+/elf64.c/1.2/Tue Jan 20 04:41:01 2015//TOPENBSD_5_8_BASE
+/elfrd_size.c/1.1/Fri Jul  8 21:39:32 2011//TOPENBSD_5_8_BASE
+/elfrdsetroot.c/1.22/Fri Jul  8 21:39:32 2011//TOPENBSD_5_8_BASE
+/elfrdsetroot.h/1.1/Fri Jul  8 21:39:32 2011//TOPENBSD_5_8_BASE
+D

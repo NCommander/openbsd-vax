@@ -1,0 +1,42 @@
+/COPYING/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/COPYING.LIB/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/Makefile.bsd-wrapper/1.8/Fri Jul  5 21:29:51 2013//TOPENBSD_5_8_BASE
+/Makefile.def/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/Makefile.in/1.2/Mon Jul  4 23:58:26 2011//TOPENBSD_5_8_BASE
+/Makefile.tpl/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/README/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/config-ml.in/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/config.guess/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/config.sub/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/configure/1.4/Mon May 25 12:42:54 2015//TOPENBSD_5_8_BASE
+/configure.in/1.4/Mon May 25 12:42:54 2015//TOPENBSD_5_8_BASE
+/gettext.m4/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/install-sh/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/libtool.m4/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/ltcf-c.sh/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/ltcf-cxx.sh/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/ltcf-gcj.sh/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/ltconfig/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/ltmain.sh/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/makefile.vms/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/md5.sum/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/missing/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/mkdep/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/mkinstalldirs/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/move-if-change/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/setup.com/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/src-release/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/symlink-tree/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+/ylwrap/1.1.1.1/Sun Apr 24 20:14:40 2011//TOPENBSD_5_8_BASE
+D/bfd////
+D/binutils////
+D/config////
+D/cpu////
+D/etc////
+D/gas////
+D/gprof////
+D/include////
+D/intl////
+D/ld////
+D/opcodes////
+D/texinfo////

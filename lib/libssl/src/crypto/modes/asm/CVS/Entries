@@ -1,0 +1,9 @@
+/ghash-alpha.pl/1.2/Thu May  1 20:41:56 2014//TOPENBSD_5_8_BASE
+/ghash-armv4.pl/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_8_BASE
+/ghash-ia64.pl/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_8_BASE
+/ghash-parisc.pl/1.5/Sat Sep 27 20:17:52 2014//TOPENBSD_5_8_BASE
+/ghash-s390x.pl/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_8_BASE
+/ghash-sparcv9.pl/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_8_BASE
+/ghash-x86.pl/1.1.1.2/Sun Apr 13 15:16:34 2014//TOPENBSD_5_8_BASE
+/ghash-x86_64.pl/1.1.1.2/Sun Apr 13 15:16:34 2014//TOPENBSD_5_8_BASE
+D

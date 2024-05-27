@@ -1,0 +1,15 @@
+/harness/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/harness_badtap/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/harness_complain/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/harness_directives/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/harness_failure/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_8_BASE
+/psql.bat/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_8_BASE
+/source/1.1.1.2/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_8_BASE
+/source.1/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_8_BASE
+/source.bat/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_8_BASE
+/source.pl/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_8_BASE
+/source.sh/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_8_BASE
+/source.t/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_8_BASE
+/source.tap/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_8_BASE
+/source_args.sh/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_8_BASE
+D

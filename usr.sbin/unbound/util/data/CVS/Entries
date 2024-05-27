@@ -1,0 +1,11 @@
+/dname.c/1.1.1.4/Thu Jul 16 01:42:20 2015//TOPENBSD_5_8_BASE
+/dname.h/1.1.1.2/Sun Mar 16 11:38:24 2014//TOPENBSD_5_8_BASE
+/msgencode.c/1.1.1.5/Thu Jul 16 01:42:20 2015//TOPENBSD_5_8_BASE
+/msgencode.h/1.1.1.3/Sun Mar 16 11:38:24 2014//TOPENBSD_5_8_BASE
+/msgparse.c/1.1.1.4/Thu Jul 16 01:42:20 2015//TOPENBSD_5_8_BASE
+/msgparse.h/1.1.1.4/Thu Jul 16 01:42:20 2015//TOPENBSD_5_8_BASE
+/msgreply.c/1.4/Thu Jul 16 01:44:01 2015//TOPENBSD_5_8_BASE
+/msgreply.h/1.3/Thu Jul 16 01:44:01 2015//TOPENBSD_5_8_BASE
+/packed_rrset.c/1.1.1.4/Thu Jul 16 01:42:20 2015//TOPENBSD_5_8_BASE
+/packed_rrset.h/1.1.1.5/Thu Jul 16 01:42:20 2015//TOPENBSD_5_8_BASE
+D

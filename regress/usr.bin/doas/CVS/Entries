@@ -1,0 +1,13 @@
+/Makefile/1.3/Tue Jul 28 12:25:27 2015//TOPENBSD_5_8_BASE
+/master.passwd/1.1/Tue Jul 28 12:25:27 2015//TOPENBSD_5_8_BASE
+/t-fail-quotes.conf/1.1/Sun Jul 26 17:28:05 2015//TOPENBSD_5_8_BASE
+/t-fail-quotes.err/1.1/Sun Jul 26 17:28:05 2015//TOPENBSD_5_8_BASE
+/t-fail-quotes.expected.err/1.1/Sun Jul 26 17:28:05 2015//TOPENBSD_5_8_BASE
+/t-fail-quotes.out/1.1/Sun Jul 26 17:28:05 2015//TOPENBSD_5_8_BASE
+/t-okay.conf/1.1/Sun Jul 26 17:28:05 2015//TOPENBSD_5_8_BASE
+/t-okay.err/1.1/Sun Jul 26 17:28:05 2015//TOPENBSD_5_8_BASE
+/t-okay.out/1.1/Sun Jul 26 17:28:05 2015//TOPENBSD_5_8_BASE
+/t-permit-1.conf/1.1/Sun Jul 26 17:28:05 2015//TOPENBSD_5_8_BASE
+/t-permit-1.patterns/1.1/Sun Jul 26 17:28:05 2015//TOPENBSD_5_8_BASE
+/t-run-keepenv-path.conf/1.1/Tue Jul 28 12:25:27 2015//TOPENBSD_5_8_BASE
+D

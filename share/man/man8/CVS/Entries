@@ -1,0 +1,41 @@
+/Makefile/1.88/Tue Mar 18 22:36:31 2014//TOPENBSD_5_8_BASE
+/afterboot.8/1.147/Thu Jul 30 08:03:49 2015//TOPENBSD_5_8_BASE
+/autoinstall.8/1.16/Fri May 15 18:53:05 2015//TOPENBSD_5_8_BASE
+/boot_config.8/1.29/Sun Jan 25 15:15:14 2015//TOPENBSD_5_8_BASE
+/compat_linux.8/1.49/Sun Apr 19 08:58:02 2015//TOPENBSD_5_8_BASE
+/crash.8/1.33/Mon Nov  8 15:52:05 2010//TOPENBSD_5_8_BASE
+/daily.8/1.22/Fri Jul 24 15:29:52 2015//TOPENBSD_5_8_BASE
+/diskless.8/1.65/Mon Jul 27 17:28:39 2015//TOPENBSD_5_8_BASE
+/genassym.sh.8/1.9/Fri Mar 13 19:58:41 2015//TOPENBSD_5_8_BASE
+/intro.8/1.25/Tue Aug 26 19:33:48 2014//TOPENBSD_5_8_BASE
+/netstart.8/1.19/Sun Nov 13 12:43:49 2011//TOPENBSD_5_8_BASE
+/rc.8/1.40/Tue Jul 22 07:38:52 2014//TOPENBSD_5_8_BASE
+/rc.conf.8/1.26/Mon May  4 22:29:04 2015//TOPENBSD_5_8_BASE
+/rc.d.8/1.28/Wed Feb 25 23:01:28 2015//TOPENBSD_5_8_BASE
+/rc.shutdown.8/1.14/Mon Jul 14 09:14:11 2014//TOPENBSD_5_8_BASE
+/rc.subr.8/1.28/Thu Jan 15 09:20:37 2015//TOPENBSD_5_8_BASE
+/release.8/1.70/Fri Jul 31 11:30:12 2015//TOPENBSD_5_8_BASE
+/security.8/1.25/Mon Sep  8 01:27:55 2014//TOPENBSD_5_8_BASE
+/ssl.8/1.62/Sat Nov 22 18:06:35 2014//TOPENBSD_5_8_BASE
+/starttls.8/1.20/Wed Oct  1 14:09:28 2014//TOPENBSD_5_8_BASE
+/sticky.8/1.10/Fri Feb 14 17:27:58 2014//TOPENBSD_5_8_BASE
+/yp.8/1.31/Mon Jul 15 22:59:13 2013//TOPENBSD_5_8_BASE
+D/man8.alpha////
+D/man8.amd64////
+D/man8.armish////
+D/man8.armv7////
+D/man8.aviion////
+D/man8.hppa////
+D/man8.hppa64////
+D/man8.i386////
+D/man8.landisk////
+D/man8.loongson////
+D/man8.luna88k////
+D/man8.macppc////
+D/man8.octeon////
+D/man8.sgi////
+D/man8.socppc////
+D/man8.sparc////
+D/man8.sparc64////
+D/man8.vax////
+D/man8.zaurus////

@@ -1,0 +1,9 @@
+/hostent.pm/1.5/Wed Dec  3 03:02:39 2003/-ko/TOPENBSD_5_8_BASE
+/hostent.t/1.1.1.4/Mon Mar 25 20:08:54 2013/-ko/TOPENBSD_5_8_BASE
+/netent.pm/1.4/Sun Oct 27 22:25:27 2002/-ko/TOPENBSD_5_8_BASE
+/netent.t/1.1.1.1/Sun Oct 27 22:15:01 2002/-ko/TOPENBSD_5_8_BASE
+/protoent.pm/1.4/Sun Oct 27 22:25:27 2002/-ko/TOPENBSD_5_8_BASE
+/protoent.t/1.1.1.1/Sun Oct 27 22:15:01 2002/-ko/TOPENBSD_5_8_BASE
+/servent.pm/1.4/Wed Dec  3 03:02:39 2003/-ko/TOPENBSD_5_8_BASE
+/servent.t/1.1.1.1/Sun Oct 27 22:15:01 2002/-ko/TOPENBSD_5_8_BASE
+D

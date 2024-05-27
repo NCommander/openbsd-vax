@@ -1,0 +1,8 @@
+/Makefile/1.39/Thu Nov 20 14:53:15 2014//TOPENBSD_5_8_BASE
+/local_passwd.c/1.44/Fri Nov 21 05:13:44 2014//TOPENBSD_5_8_BASE
+/passwd.1/1.43/Mon Jul 27 17:28:39 2015//TOPENBSD_5_8_BASE
+/passwd.c/1.26/Mon May 19 15:05:13 2014//TOPENBSD_5_8_BASE
+/pwd_check.c/1.13/Sat Mar  2 09:07:37 2013//TOPENBSD_5_8_BASE
+/pwd_gensalt.c/1.29/Sat Nov  1 17:48:00 2014//TOPENBSD_5_8_BASE
+/yp_passwd.c/1.35/Fri Jan 16 06:40:10 2015//TOPENBSD_5_8_BASE
+D
