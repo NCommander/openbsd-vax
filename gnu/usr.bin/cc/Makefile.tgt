@@ -25,6 +25,8 @@ GCC_CPU=	mips
 GCC_CPU=	rs6000
 .elif ${TARGET_ARCH} == "sh"
 GCC_CPU=	sh
+.elif ${TARGET_ARCH} == "vax"
+GCC_CPU=	vax
 .elif ${TARGET_ARCH} == "sparc"
 GCC_CPU=	sparc
 TARGET_CPU_DEFAULT= TARGET_CPU_v7
