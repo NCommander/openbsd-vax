@@ -340,13 +340,6 @@ afterinstall:
 	    ln -f $$i `echo $$i | sed 's/curses/ncurses/'`; \
 	    ln -f $$i `echo $$i | sed 's/curses/ncursesw/'`; \
 	done
-.if (${DEBUGLIBS:L} == "yes")
-	-cd ${DESTDIR}${LIBDIR}/debug; \
-	    ln -f lib${LIB}.a lib`echo ${LIB} | sed 's/curses/termlib/'`.a; \
-	    ln -f lib${LIB}.a lib`echo ${LIB} | sed 's/curses/termcap/'`.a; \
-	    ln -f lib${LIB}.a lib`echo ${LIB} | sed 's/curses/ncurses/'`.a; \
-	    ln -f lib${LIB}.a lib`echo ${LIB} | sed 's/curses/ncursesw/'`.a
-.endif
 
 .include <bsd.lib.mk>
 

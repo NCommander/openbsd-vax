@@ -526,9 +526,9 @@ CLEANFILES+=	${GENSRCS} ${GENONLY} ${GENOBJS} ${GNTOOLS}
 
 #-----------------------------------------------------------------------
 # Manual dependencies.
-.if !exists(${DEPENDFILE})
-.include  "Makefile.dep"
-.endif
+#.if !exists(${DEPENDFILE})
+#.include  "Makefile.dep"
+#.endif
 
 .include <bsd.prog.mk>
 # DO NOT DELETE
