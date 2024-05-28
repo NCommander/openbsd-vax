@@ -1,0 +1,8 @@
+/aapic.c/1.6/Sat Mar 14 03:38:46 2015//TOPENBSD_5_8_BASE
+/agp_machdep.c/1.14/Sat Mar 14 03:38:46 2015//TOPENBSD_5_8_BASE
+/pchb.c/1.41/Wed Mar 26 14:41:41 2014//TOPENBSD_5_8_BASE
+/pci_machdep.c/1.62/Sat Mar 14 03:38:46 2015//TOPENBSD_5_8_BASE
+/pcib.c/1.6/Thu May 30 16:15:01 2013//TOPENBSD_5_8_BASE
+/pciide_machdep.c/1.3/Mon Jan 15 23:19:05 2007//TOPENBSD_5_8_BASE
+/vga_post.c/1.9/Sat Mar 14 03:38:46 2015//TOPENBSD_5_8_BASE
+D

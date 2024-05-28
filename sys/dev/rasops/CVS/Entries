@@ -1,0 +1,15 @@
+/Makefile/1.1/Sun Mar 18 04:32:44 2001//TOPENBSD_5_8_BASE
+/files.rasops/1.6/Sat Dec  2 15:55:18 2006//TOPENBSD_5_8_BASE
+/rasops.c/1.40/Sun Jun 21 20:49:18 2015//TOPENBSD_5_8_BASE
+/rasops.h/1.16/Mon Dec 22 20:08:05 2014//TOPENBSD_5_8_BASE
+/rasops1.c/1.9/Fri Dec 19 22:44:58 2014//TOPENBSD_5_8_BASE
+/rasops15.c/1.8/Sat Aug 28 12:48:14 2010//TOPENBSD_5_8_BASE
+/rasops2.c/1.11/Fri Dec 19 22:44:59 2014//TOPENBSD_5_8_BASE
+/rasops24.c/1.10/Fri Dec 19 22:44:59 2014//TOPENBSD_5_8_BASE
+/rasops32.c/1.7/Sat Aug 28 12:48:14 2010//TOPENBSD_5_8_BASE
+/rasops4.c/1.11/Fri Dec 19 22:44:59 2014//TOPENBSD_5_8_BASE
+/rasops8.c/1.10/Sat Aug 28 12:48:14 2010//TOPENBSD_5_8_BASE
+/rasops_bitops.h/1.6/Sat Aug 28 12:48:14 2010//TOPENBSD_5_8_BASE
+/rasops_masks.c/1.5/Thu Jun 23 16:31:16 2011//TOPENBSD_5_8_BASE
+/rasops_masks.h/1.5/Fri Dec 19 22:44:59 2014//TOPENBSD_5_8_BASE
+D

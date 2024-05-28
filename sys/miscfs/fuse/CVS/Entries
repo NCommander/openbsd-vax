@@ -1,0 +1,9 @@
+/fuse_device.c/1.18/Tue Feb 10 22:04:00 2015//TOPENBSD_5_8_BASE
+/fuse_file.c/1.8/Tue Mar 18 08:51:53 2014//TOPENBSD_5_8_BASE
+/fuse_lookup.c/1.10/Tue Dec 16 18:30:04 2014//TOPENBSD_5_8_BASE
+/fuse_vfsops.c/1.16/Sun Jul 19 14:21:14 2015//TOPENBSD_5_8_BASE
+/fuse_vnops.c/1.24/Fri Apr 17 04:43:21 2015//TOPENBSD_5_8_BASE
+/fusebuf.c/1.11/Sat Mar 14 03:38:51 2015//TOPENBSD_5_8_BASE
+/fusefs.h/1.7/Tue May 20 13:32:22 2014//TOPENBSD_5_8_BASE
+/fusefs_node.h/1.2/Sat Feb  1 09:30:38 2014//TOPENBSD_5_8_BASE
+D

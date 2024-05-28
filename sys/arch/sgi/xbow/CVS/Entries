@@ -1,0 +1,19 @@
+/Makefile/1.1/Mon Apr  7 22:47:40 2008//TOPENBSD_5_8_BASE
+/devlist2h.awk/1.2/Mon Jul 28 18:50:59 2008//TOPENBSD_5_8_BASE
+/files.xbow/1.9/Thu May 10 21:30:09 2012//TOPENBSD_5_8_BASE
+/hub.h/1.7/Sun Nov  8 22:44:16 2009//TOPENBSD_5_8_BASE
+/impact_xbow.c/1.1/Wed Apr 18 17:28:24 2012//TOPENBSD_5_8_BASE
+/odyssey.c/1.11/Sun Mar  9 10:01:25 2014//TOPENBSD_5_8_BASE
+/odysseyreg.h/1.2/Mon Apr 16 22:17:16 2012//TOPENBSD_5_8_BASE
+/odysseyvar.h/1.2/Tue Apr  6 19:12:34 2010//TOPENBSD_5_8_BASE
+/widget.h/1.2/Tue Apr  6 19:02:57 2010//TOPENBSD_5_8_BASE
+/xbow.c/1.35/Tue Sep 30 06:51:58 2014//TOPENBSD_5_8_BASE
+/xbow.h/1.12/Sun Apr 17 17:44:24 2011//TOPENBSD_5_8_BASE
+/xbowdevs/1.6/Thu Oct 15 23:42:43 2009//TOPENBSD_5_8_BASE
+/xbowdevs.h/1.6/Thu Oct 15 23:42:47 2009//TOPENBSD_5_8_BASE
+/xbowdevs_data.h/1.6/Thu Oct 15 23:42:47 2009//TOPENBSD_5_8_BASE
+/xbridge.c/1.96/Wed Jun 24 16:52:52 2015//TOPENBSD_5_8_BASE
+/xbridgereg.h/1.15/Tue Jun 16 18:24:38 2015//TOPENBSD_5_8_BASE
+/xheart.c/1.27/Tue Sep 30 06:51:58 2014//TOPENBSD_5_8_BASE
+/xheartreg.h/1.5/Sun Jun 17 12:34:19 2012//TOPENBSD_5_8_BASE
+D

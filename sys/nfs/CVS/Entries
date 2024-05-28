@@ -1,0 +1,26 @@
+/krpc.h/1.7/Wed Dec  5 23:20:23 2012//TOPENBSD_5_8_BASE
+/krpc_subr.c/1.28/Wed Jul 15 22:16:42 2015//TOPENBSD_5_8_BASE
+/nfs.h/1.52/Mon Mar 24 00:19:48 2014//TOPENBSD_5_8_BASE
+/nfs_aiod.c/1.6/Sat Jul 12 18:43:52 2014//TOPENBSD_5_8_BASE
+/nfs_bio.c/1.80/Sat Mar 14 03:38:52 2015//TOPENBSD_5_8_BASE
+/nfs_boot.c/1.37/Wed Jul 15 22:16:42 2015//TOPENBSD_5_8_BASE
+/nfs_debug.c/1.6/Sun Sep 14 14:17:26 2014//TOPENBSD_5_8_BASE
+/nfs_kq.c/1.22/Sat Nov 15 00:03:12 2014//TOPENBSD_5_8_BASE
+/nfs_node.c/1.62/Sat Mar 14 03:38:52 2015//TOPENBSD_5_8_BASE
+/nfs_serv.c/1.105/Wed Jul 15 22:16:42 2015//TOPENBSD_5_8_BASE
+/nfs_socket.c/1.110/Wed Jul 15 22:16:42 2015//TOPENBSD_5_8_BASE
+/nfs_srvcache.c/1.27/Sat Mar 14 03:38:52 2015//TOPENBSD_5_8_BASE
+/nfs_subs.c/1.128/Tue Jun 16 11:09:40 2015//TOPENBSD_5_8_BASE
+/nfs_syscalls.c/1.103/Wed Jul 15 22:16:42 2015//TOPENBSD_5_8_BASE
+/nfs_var.h/1.60/Tue Jun 11 16:42:17 2013//TOPENBSD_5_8_BASE
+/nfs_vfsops.c/1.107/Sat Mar 14 03:38:52 2015//TOPENBSD_5_8_BASE
+/nfs_vnops.c/1.164/Sun May  3 02:02:15 2015//TOPENBSD_5_8_BASE
+/nfsdiskless.h/1.10/Fri Sep 20 23:51:44 2013//TOPENBSD_5_8_BASE
+/nfsm_subs.h/1.44/Thu Dec 18 20:59:21 2014//TOPENBSD_5_8_BASE
+/nfsmount.h/1.25/Mon Sep 10 11:10:59 2012//TOPENBSD_5_8_BASE
+/nfsnode.h/1.39/Tue Dec 15 15:53:48 2009//TOPENBSD_5_8_BASE
+/nfsproto.h/1.10/Wed Jul  8 14:39:31 2009//TOPENBSD_5_8_BASE
+/nfsrvcache.h/1.8/Tue Nov 26 20:41:27 2013//TOPENBSD_5_8_BASE
+/rpcv2.h/1.8/Fri Jul  4 16:49:28 2008//TOPENBSD_5_8_BASE
+/xdr_subs.h/1.10/Fri Apr 17 04:43:21 2015//TOPENBSD_5_8_BASE
+D

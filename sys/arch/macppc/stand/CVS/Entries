@@ -1,0 +1,21 @@
+/Locore.c/1.16/Sat Jul 12 21:54:58 2014//TOPENBSD_5_8_BASE
+/Makefile/1.8/Sun Jul 13 21:11:40 2014//TOPENBSD_5_8_BASE
+/Makefile.inc/1.12/Sun Oct 27 04:49:52 2013//TOPENBSD_5_8_BASE
+/alloc.c/1.8/Sun Feb 23 06:16:45 2014//TOPENBSD_5_8_BASE
+/boot.8/1.2/Mon Jun 22 18:31:49 2015//TOPENBSD_5_8_BASE
+/cache.c/1.2/Thu Oct 16 04:30:09 2003//TOPENBSD_5_8_BASE
+/conf.c/1.7/Mon Mar 23 20:18:52 2015//TOPENBSD_5_8_BASE
+/hfs.c/1.6/Sat Mar 14 20:52:41 2015//TOPENBSD_5_8_BASE
+/hfs.h/1.2/Sat Mar 14 20:52:41 2015//TOPENBSD_5_8_BASE
+/libsa.h/1.1/Wed Jun 13 02:17:32 2007//TOPENBSD_5_8_BASE
+/main.c/1.8/Thu Mar 21 21:51:00 2013//TOPENBSD_5_8_BASE
+/net.c/1.5/Thu Aug 21 14:24:08 2014//TOPENBSD_5_8_BASE
+/netif_of.c/1.6/Thu Aug 21 14:24:08 2014//TOPENBSD_5_8_BASE
+/ofdev.c/1.22/Mon Mar 23 20:18:52 2015//TOPENBSD_5_8_BASE
+/ofdev.h/1.1/Sat Sep  1 15:39:02 2001//TOPENBSD_5_8_BASE
+/ofwmagic.S/1.2/Thu Jun 26 05:42:12 2008//TOPENBSD_5_8_BASE
+/openfirm.h/1.4/Wed Dec  5 23:20:13 2012//TOPENBSD_5_8_BASE
+D/boot.mac////
+D/mbr////
+D/ofwboot////
+D/tbxidata////

@@ -1,0 +1,8 @@
+/Makefile/1.7/Wed Nov 26 08:15:41 2014//TOPENBSD_5_8_BASE
+/Makefile.inc/1.10/Sun Apr 10 12:32:11 2011//TOPENBSD_5_8_BASE
+D/bootblk////
+D/libsa////
+D/libz////
+D/ofwboot////
+D/ofwboot.net////
+D/ofwbootfd////
