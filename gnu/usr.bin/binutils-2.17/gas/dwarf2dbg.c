@@ -103,6 +103,8 @@
 /* The maximum address skip amount that can be encoded with a special op.  */
 #define MAX_SPECIAL_ADDR_DELTA		SPECIAL_ADDR(255)
 
+bfd_boolean dwarf2_loc_mark_labels;
+
 struct line_entry {
   struct line_entry *next;
   symbolS *label;
